@@ -1,6 +1,6 @@
 # MED Symbolic Regression Framework
 
-A modular framework for running and analysing symbolic regression using the (MED)[https://github.com/uob-positron-imaging-centre/MED/tree/main] (Model Equation Discovery) library, itself built on PySR. This workflow acts as a high level wrapper for the MED symbolic regression process, automating it over a number of parameters such as random seed, multiple target columns or multiple datasets, with evaluation and visualisation of regression results. 
+A modular framework for running and analysing symbolic regression using the [MED](https://github.com/uob-positron-imaging-centre/MED/tree/main) (Model Equation Discovery) library, itself built on PySR. This workflow acts as a high level wrapper for the MED symbolic regression process, automating it over a number of parameters such as random seed, multiple target columns or multiple datasets, with evaluation and visualisation of regression results. 
 
 ## Project Structure
 
